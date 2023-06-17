@@ -1,0 +1,5 @@
+baseurl = "/"
+languageCode = "en-us"
+languageLang = "en"
+title = "テスト"
+disableKinds = ["RSS", "taxonomy", "taxonomyTerm"]
